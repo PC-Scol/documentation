@@ -22,7 +22,7 @@ Il est recommandé de pouvoir identifier qui contribue et à quel établissement
 
 ### Utilisation de topics
 
-Pas d'arborescence spécifique pour les repositories, utiliser les "topics" pour tagger les dépôts selon leur(s) sujet(s). Exemple du topic 'rdd' sur le repo 'mise_en_qualite_RDD' :
+Il n'y a pas d'arborescence pour répartir ou organiser les repositories. Il est proposé d'utiliser des "topics" pour identifier les dépôts selon leur(s) sujet(s). Exemple du topic 'rdd' sur le repo 'mise_en_qualite_RDD' :
 
 ![image](https://github.com/user-attachments/assets/90c6b821-0a7a-4712-b676-f7502a17474c)
 
@@ -31,10 +31,10 @@ Exemple de recherche de repositories sur le topic "dre" pour l'organisation Gith
 ![image](https://github.com/user-attachments/assets/785d05b1-e63b-44c2-8ebf-d3cb44125fa1)
 
 Topics proposés :
-* API
-* DRE
-* RDD
-* MOODLE
+* api
+* dre
+* rdd
+* moodle
 
 Nous souhaitons limiter le nombre de topics utilisés, aussi leur création est centralisée, au besoin vous pouvez contacter le projet PC-Scol pour en ajouter.
 
