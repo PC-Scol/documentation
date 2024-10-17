@@ -81,6 +81,8 @@ Exemple :
 
 ## Bonnes pratiques de contribution
 
+**ATTENTION**, Ne pas communiquer de mots de passe, secrets ou informations sensibles dans les contributions .
+
 ### Signaler un problème
 
 * En cas de problème de sécurité, NE PAS effectuer une public issue. Contacter le contributeur principal du repository
@@ -99,9 +101,7 @@ Les messages de commit commencent par référencer l'issue à laquelle ils se ra
 ### Merge request
 Les MR sont approuvées par le/les mainteneurs du repository dans lequel la MR a été effectuée. Le mainteneur est par défaut l'initiateur du repository.
 
-**ATTENTION**, Ne pas communiquer de mots de passe, secret ou informations sensibles dans les contributions .
-
 ## Support
 PC-Scol n'est pas responsable des scripts et outils partagés et ne garantit pas leur contenu. Il est de la responsabilité de chaque établissement de s'assurer de l'effet des scripts exécutés.
 
-PC-Scol ne fait pas de support sur le code partagé par d'autres contributeur. De même, les contributeurs ne s'engagent pas à fournir du support.
+PC-Scol ne fait pas de support sur le code partagé. De même, les contributeurs ne s'engagent pas à fournir du support.
