@@ -35,6 +35,7 @@ Topics proposés :
 * dre
 * rdd
 * moodle
+* technique
 
 Nous souhaitons limiter le nombre de topics utilisés, aussi leur création est centralisée, au besoin vous pouvez contacter le projet PC-Scol pour en ajouter.
 
