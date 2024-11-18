@@ -2,21 +2,18 @@
 
 ## Description
 
-<<<<<<< Updated upstream
 Le github PC-Scol est un lieu d'échange entre établissements de l'enseignement supérieur qui souhaitent partager les outils et les librairies qu'ils pensent être utiles pour d'autres établissements. L'équipe PC-Scol peut également y déposer des outils ou des librairies. Le contenu de ce github est accessible en lecture à toutes et tous.
-=======
-test
->>>>>>> Stashed changes
 
 ## Accessibilité
 
 ### Lecteur
 
-Tous les repository sont accessibles au public en lecture.
+Tous les repository sont accessibles au public en lecture. Il n'est pas nécessaire de faire partie de l'organisation github/PC-Scol pour y accéder.
 
 ### Contributeur
 
-Pour contribuer, il est nécessaire au préalable d'effectuer une demande d'adhésion à l'organisation github/PC-Scol. Le contributeur a la capacité de créer un repository, créer des branches et commiter.
+Pour créer un repository dans le github PC-Scol, le contributeur doit faire partie de l'organisation github/PC-Scol. Si ce n'est pas le cas, il doit effectuer une demande d'adhésion à l'organisation github/PC-Scol.
+Pour contribuer sur un repository existant, le contributeur doit créer une branche en local (cf. les règles de nommage dans le §Processus nominal plus bas dans la page):, la commiter, la pousser sur le repository puis créer une Pull Request (PR) afin qu'elle puisse être examinée par un mainteneur. Aucune nécessité d'appartenance à l'organisation github/PC-Scol dans ce cas.
 
 ### Mainteneur
 
