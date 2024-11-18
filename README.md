@@ -2,7 +2,7 @@
 
 ## Description
 
-Le github PC-Scol est un lieu d'échange entre établissements de l'enseignement supérieur qui souhaitent partager les outils et les librairies qu'ils pensent être utiles pour d'autres établissements. L'équipe PC-Scol peut également y déposer des outils ou des librairies. Le contenu de ce github est accessible en lecture à toutes et tous.
+Le github PC-Scol est un lieu d'échange entre établissements de l'enseignement supérieur qui souhaitent partager les outils et les librairies qu'ils pensent être utiles pour d'autres établissements. L'équipe PC-Scol peut également y déposer des outils ou des librairies. Le contenu de ce github est accessible à tous.
 
 ## Accessibilité
 
@@ -12,11 +12,15 @@ Tous les repository sont accessibles au public en lecture. Il n'est pas nécessa
 
 ### Contributeur
 
-Pour contribuer, il est nécessaire au préalable d'effectuer une demande d'adhésion à l'organisation github/PC-Scol. Le contributeur a la capacité de créer un repository, créer des branches et commiter.
+Le contributeur a la capacité de créer un repository, créer des branches et commiter. 
+
+**ATTENTION**, il y a plusieurs prérequis pour contribuer :
+* effectuer une demande d'adhésion à l'organisation github/PC-Scol en indiquant la motivation de la demande et le compte github à rajouter,
+* le compte utilisé doit disposer à minima d'un Personal access tokens avec le scope "public_repo".
 
 ### Mainteneur
 
-Le mainteneur d'un repository est un contributeur désigné comme tel. Il valide les Pull Request
+Le mainteneur d'un repository est un contributeur désigné comme tel. Il valide les Pull Request.
 
 ## Gestion des comptes
 
