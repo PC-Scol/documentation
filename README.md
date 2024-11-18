@@ -13,11 +13,10 @@ Tous les repository sont accessibles au public en lecture. Il n'est pas nécessa
 ### Contributeur
 
 Pour contribuer, il est nécessaire au préalable d'effectuer une demande d'adhésion à l'organisation github/PC-Scol. Le contributeur a la capacité de créer un repository, créer des branches et commiter.
-Lorsqu'une branche est poussée sur un repository, il est demandé au contributeur de créer un Pull Request (PR) dans la foulée afin qu'elle puisse être examinée par un mainteneur.
 
 ### Mainteneur
 
-Le mainteneur d'un repository est un contributeur désigné comme tel. Il valide les Merge Request
+Le mainteneur d'un repository est un contributeur désigné comme tel. Il valide les Pull Request
 
 ## Gestion des comptes
 
@@ -96,16 +95,18 @@ Exemple :
 
 ### Processus nominal
 
-En cas de développement de nouvelle fonctionnalité ou de hotfix, cloner le repository en local puis effectuer les changements dans une branche :
+En cas de développement de nouvelle fonctionnalité ou de hotfix, cloner le repository en local puis effectuer les changements dans une nouvelle branche (il est très fortement déconseillé de travailler directement sur main) :
 
 * Si c'est une branche corrective (fix branch), l'appeler **fix-XXXX-description** where XXXX est le numéro de l'issue dans le repository github
 * Si c'est une branche de nouvelle fonctionnalité (feature branch), créer une issue d'amélioration (enhancement issue) pour expliquer l'objectif de la nouvelle fonctionnalité et la nommer **feature-XXXX-description** où XXXX est le numéro de l'issue.
 
+Après le push de la branche, il est demandé au contributeur de créer une Pull Request (PR) dans la foulée afin qu'elle puisse être examinée par un mainteneur. L'URL pour créer la PR est indiquée dans le terminal après le premier push de la branche.
+
 ### Commit
 Les messages de commit commencent par référencer l'issue à laquelle ils se rapportent, il décrivent une synthèse de l'objectif et du contexte
 
-### Merge request
-Les MR sont approuvées par le/les mainteneurs du repository dans lequel la MR a été effectuée. Le mainteneur est par défaut l'initiateur du repository.
+### Pull request
+Les PR sont approuvées par le/les mainteneurs du repository dans lequel la PR a été effectuée. Le mainteneur est par défaut l'initiateur du repository.
 
 ## Support
 PC-Scol n'est pas responsable des scripts et outils partagés et ne garantit pas leur contenu. Il est de la responsabilité de chaque établissement de s'assurer de l'effet des scripts exécutés.
