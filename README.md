@@ -12,8 +12,8 @@ Tous les repository sont accessibles au public en lecture. Il n'est pas nécessa
 
 ### Contributeur
 
-Pour créer un repository dans le github PC-Scol, le contributeur doit faire partie de l'organisation github/PC-Scol. Si ce n'est pas le cas, il doit effectuer une demande d'adhésion à l'organisation github/PC-Scol.
-Pour contribuer sur un repository existant, le contributeur doit créer une branche en local (cf. les règles de nommage dans le §Processus nominal plus bas dans la page):, la commiter, la pousser sur le repository puis créer une Pull Request (PR) afin qu'elle puisse être examinée par un mainteneur. Aucune nécessité d'appartenance à l'organisation github/PC-Scol dans ce cas.
+Pour contribuer, il est nécessaire au préalable d'effectuer une demande d'adhésion à l'organisation github/PC-Scol. Le contributeur a la capacité de créer un repository, créer des branches et commiter.
+Lorsqu'une branche est poussée sur un repository, il est demandé au contributeur de créer un Pull Request (PR) dans la foulée afin qu'elle puisse être examinée par un mainteneur.
 
 ### Mainteneur
 
