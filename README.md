@@ -16,7 +16,7 @@ Le contributeur a la capacité de créer un repository, créer des branches et c
 
 **ATTENTION**, il y a plusieurs prérequis pour contribuer :
 * effectuer une demande d'adhésion à l'organisation github/PC-Scol en indiquant la motivation de la demande et le compte github à rajouter,
-* le compte utilisé doit disposer à minima d'un Personal access tokens avec le scope "public_repo".
+* le compte utilisé doit disposer à minima d'un [Personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) avec le scope "public_repo".
 
 ### Mainteneur
 
