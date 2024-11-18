@@ -1,5 +1,9 @@
 # Guide de contribution github/PC-Scol
 
+## Description
+
+Le github PC-Scol est un lieu d'échange entre établissements de l'enseignement supérieur qui souhaitent partager les outils et les librairies qu'ils pensent être utiles pour d'autres établissements. L'équipe PC-Scol peut également y déposer des outils ou des librairies. Le contenu de ce github est accessible en lecture à toutes et tous.
+
 ## Accessibilité
 
 ### Lecteur
