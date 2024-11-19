@@ -99,7 +99,7 @@ Exemple :
 
 ### Processus nominal
 
-En cas de développement de nouvelle fonctionnalité ou de hotfix, cloner le repository en local puis effectuer les changements dans une nouvelle branche (il est très fortement déconseillé de travailler directement sur main) :
+En cas de développement de nouvelle fonctionnalité ou de hotfix, cloner le repository en local puis effectuer les changements dans une nouvelle branche (il est très fortement déconseillé de travailler directement sur main; les propriétaires/créateurs de repository peuvent même protéger la branche par défaut) :
 
 * Si c'est une branche corrective (fix branch), l'appeler **fix-XXXX-description** where XXXX est le numéro de l'issue dans le repository github
 * Si c'est une branche de nouvelle fonctionnalité (feature branch), créer une issue d'amélioration (enhancement issue) pour expliquer l'objectif de la nouvelle fonctionnalité et la nommer **feature-XXXX-description** où XXXX est le numéro de l'issue.
