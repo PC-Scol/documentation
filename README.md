@@ -99,10 +99,13 @@ Exemple :
 
 ### Processus nominal
 
-En cas de développement de nouvelle fonctionnalité ou de hotfix, cloner le repository en local puis effectuer les changements dans une nouvelle branche (il est très fortement déconseillé de travailler directement sur main) :
+En cas de développement de nouvelle fonctionnalité ou de hotfix :
 
-* Si c'est une branche corrective (fix branch), l'appeler **fix-XXXX-description** where XXXX est le numéro de l'issue dans le repository github
-* Si c'est une branche de nouvelle fonctionnalité (feature branch), créer une issue d'amélioration (enhancement issue) pour expliquer l'objectif de la nouvelle fonctionnalité et la nommer **feature-XXXX-description** où XXXX est le numéro de l'issue.
+* il est déconseillé de travailler directement sur la branche par défaut d'un repository (le propriétaire s'il le souhaitent peut la protéger en bloquant les commit directs),
+* cloner le repository en local puis effectuer les changements dans une nouvelle branche :
+
+   * Si c'est une branche corrective (fix branch), l'appeler **fix-XXXX-description** where XXXX est le numéro de l'issue dans le repository github
+   * Si c'est une branche de nouvelle fonctionnalité (feature branch), créer une issue d'amélioration (enhancement issue) pour expliquer l'objectif de la nouvelle fonctionnalité et la nommer **feature-XXXX-description** où XXXX est le numéro de l'issue.
 
 Après le push de la branche, il est demandé au contributeur de créer une Pull Request (PR) dans la foulée afin qu'elle puisse être examinée par un mainteneur. L'URL pour créer la PR est indiquée dans le terminal après le premier push de la branche.
 
