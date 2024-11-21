@@ -15,7 +15,7 @@ Tous les repository sont accessibles au public en lecture. Il n'est pas nécessa
 Le contributeur a la capacité de créer un repository, créer des branches et commiter. 
 
 **ATTENTION**, il y a plusieurs prérequis pour contribuer :
-* effectuer une demande d'adhésion à l'organisation github/PC-Scol en indiquant la motivation de la demande et le compte github à rajouter,
+* effectuer une demande d'adhésion à l'organisation github/PC-Scol en écrivant à github@pc-scol.fr et en indiquant la motivation de la demande et le compte github à rajouter,
 * le compte utilisé doit disposer à minima d'un [Personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) avec le scope "public_repo".
 
 ### Mainteneur
@@ -101,7 +101,7 @@ Exemple :
 
 En cas de développement de nouvelle fonctionnalité ou de hotfix :
 
-* il est déconseillé de travailler directement sur la branche par défaut d'un repository (le propriétaire s'il le souhaitent peut la protéger en bloquant les commit directs),
+* il est déconseillé de travailler directement sur la branche par défaut d'un repository (le propriétaire s'il le souhaite peut la protéger en bloquant les commit directs),
 * cloner le repository en local puis effectuer les changements dans une nouvelle branche :
 
    * Si c'est une branche corrective (fix branch), l'appeler **fix-XXXX-description** where XXXX est le numéro de l'issue dans le repository github
