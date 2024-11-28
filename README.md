@@ -47,6 +47,17 @@ Topics proposés :
 
 Nous souhaitons limiter le nombre de topics utilisés, aussi leur création est centralisée, au besoin vous pouvez contacter le projet PC-Scol pour en ajouter.
 
+### Description synthétique des repositories
+
+Nous recommandons d'alimenter la description des repositories de la manière la plus claire possible afin que lors du parcours de la liste des repos, il soit aisé de comprendre l'objectif global de chacun.
+
+Cette description peut être renseignée en modification (champ "Description") via le bouton "About" :
+<img width="773" alt="image" src="https://github.com/user-attachments/assets/0231851f-6775-4a6c-935b-d079ca58182a">
+
+Et lors de la création du repository dans le champ "Description" :
+
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/dd774247-3a83-43a7-9b74-880e57e0d4af">
+
 ## Choix de la licence
 
 Les licences recommandées par défaut sur PC-Scol sont :
